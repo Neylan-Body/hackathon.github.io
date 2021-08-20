@@ -22,6 +22,10 @@ Route::get('/rodadeconversa', function () {
     return view('roda_conversa');
 });
 
+Route::get('/live/124hdfds3453', function () {
+    return view('live_exemplo');
+});
+
 Route::get('/curso/sistemasdeinformacao', function () {
     return view('sistema_de_informacao');
 });

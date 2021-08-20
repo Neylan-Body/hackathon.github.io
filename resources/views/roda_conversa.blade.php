@@ -102,7 +102,7 @@
                                                 <img src="{{ asset('img/saudemental1.jpeg')}}" alt="" srcset=""><br>
                                                 <img src="{{ asset('img/live-icon.png')}}" style="width: 5em;" srcset="">                                                
                                             </div>
-                                            <a href="" class="small-box-footer">Participar<i class="fa fa-arrow-circle-right"></i></a>
+                                            <a href="/live/124hdfds3453" class="small-box-footer">Participar<i class="fa fa-arrow-circle-right"></i></a>
                                         </div>
                                     </div>
                                     <div class='col-md-4'>
