@@ -27,6 +27,7 @@
                                                 <h4><strong>Conversa com Psicologo</strong></h4><i></i>
                                                 <strong>Universidade Estadual do Sudoeste da Bahia</strong>
                                                 <img src="{{ asset('img/saudemental7.jpeg')}}" alt="" srcset=""><br>
+                                                <br>Data agendada - 23/08/2021
                                             </div>
                                         </div>
                                     </div>
@@ -37,6 +38,7 @@
                                                 <h4><strong>Conversa com Psicologo</strong></h4>
                                                 <strong>Universidade Federal do Reconcavo da Bahia</strong>
                                                 <img src="{{ asset('img/saudemental8.jpeg')}}" alt="" srcset=""><br>
+                                                <br>Data agendada - 24/08/2021
                                             </div>
                                         </div>
                                     </div>
@@ -47,6 +49,7 @@
                                                 <h4><strong>Conversa com estagiario de Psicologia</strong></h4>
                                                 <strong>Universidade Federal do Sul da Bahia</strong>
                                                 <img src="{{ asset('img/saudemental9.png')}}" alt="" srcset=""><br>
+                                                <br>Data agendada - 25/08/2021
                                             </div>
                                         </div>
                                     </div>
@@ -57,6 +60,7 @@
                                                 <h4><strong>Conversa com estagiario de Psicologia</strong></h4>
                                                 <strong>Universidade Catolica de Salvador</strong>
                                                 <img src="{{ asset('img/saudemental10.jpeg')}}" alt="" srcset=""><br>
+                                                <br>Data agendada - 26/08/2021
                                             </div>
                                         </div>
                                     </div>
@@ -67,6 +71,7 @@
                                                 <h4><strong>Conversa com estagiario de Psicologia</strong></h4>
                                                 <strong>Universidade Estadual de Santa Cruz</strong>
                                                 <img src="{{ asset('img/saudemental11.png')}}" alt="" srcset=""><br>
+                                                <br>Data agendada - 27/08/2021
                                             </div>
                                         </div>
                                     </div>
@@ -77,6 +82,7 @@
                                                 <h4><strong>Conversa com estagiario de Psicologia</strong></h4>
                                                 <strong>Universidade Estadual de Feira de Santana</strong>
                                                 <img src="{{ asset('img/saudemental12.jpeg')}}" alt="" srcset=""><br>
+                                                <br>Data agendada - 30/08/2021
                                             </div>
                                         </div>
                                     </div>
@@ -96,6 +102,7 @@
                                                 <img src="{{ asset('img/saudemental1.jpeg')}}" alt="" srcset=""><br>
                                                 <img src="{{ asset('img/live-icon.png')}}" style="width: 5em;" srcset="">                                                
                                             </div>
+                                            <a href="" class="small-box-footer">Participar<i class="fa fa-arrow-circle-right"></i></a>
                                         </div>
                                     </div>
                                     <div class='col-md-4'>
@@ -107,6 +114,7 @@
                                                 <img src="{{ asset('img/saudemental2.jpeg')}}" alt="" srcset=""><br>
                                                 <img src="{{ asset('img/live-icon.png')}}" style="width: 5em;" srcset="">                                                  
                                             </div>
+                                            <a href="" class="small-box-footer">Participar<i class="fa fa-arrow-circle-right"></i></a>
                                         </div>
                                     </div>
                                     <div class='col-md-4'>
@@ -118,6 +126,7 @@
                                                 <img src="{{ asset('img/saudemental3.png')}}" alt="" srcset=""><br>
                                                 <img src="{{ asset('img/live-icon.png')}}" style="width: 5em;" srcset="">                                                  
                                             </div>
+                                            <a href="" class="small-box-footer">Participar<i class="fa fa-arrow-circle-right"></i></a>
                                         </div>
                                     </div>
                                     <div class='col-md-4'>
@@ -129,6 +138,7 @@
                                                 <img src="{{ asset('img/saudemental4.jpeg')}}" alt="" srcset=""><br>
                                                 <img src="{{ asset('img/live-icon.png')}}" style="width: 5em;" srcset="">                                                  
                                             </div>
+                                            <a href="" class="small-box-footer">Participar<i class="fa fa-arrow-circle-right"></i></a>
                                         </div>
                                     </div>
                                     <div class='col-md-4'>
@@ -140,6 +150,7 @@
                                                 <img src="{{ asset('img/saudemental5.jpeg')}}" alt="" srcset=""><br>
                                                 <img src="{{ asset('img/live-icon.png')}}" style="width: 5em;" srcset="">                                                  
                                             </div>
+                                            <a href="" class="small-box-footer">Participar<i class="fa fa-arrow-circle-right"></i></a>
                                         </div>
                                     </div>
                                     <div class='col-md-4'>
@@ -151,6 +162,7 @@
                                                 <img src="{{ asset('img/saudemental6.jpeg')}}" alt="" srcset=""><br>
                                                 <img src="{{ asset('img/live-icon.png')}}" style="width: 5em;" srcset="">                                                  
                                             </div>
+                                            <a href="" class="small-box-footer">Participar<i class="fa fa-arrow-circle-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
