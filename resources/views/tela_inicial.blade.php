@@ -15,9 +15,10 @@
             <!-- general form elements disabled -->
             <div class='box box-primary ml-6'>
                         <div class='box-body'>
+                            <h3>Conectando-se com o conhecimento</h3>
                             <div class="login-box">
                                 <div class="login-logo">
-                                    <a href="#"><b>Conectando-se com o conhecimento</b></a>
+                                    <!-- <a href="#"><b>Conectando-se com o conhecimento</b></a> -->
                                     <img src="{{ asset('img/logo-grande.png')}}" alt="">
                                 </div>
                                 

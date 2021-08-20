@@ -40,7 +40,7 @@
                         </p> 
                     </a>
                 </li>
-                <li class="nav-item has-treeview ">
+                <!-- <li class="nav-item has-treeview ">
                     <a class="nav-link ative"><i class="fa fa-user"></i> 
                         <p class="text-dark">  
                             Educacional
@@ -49,7 +49,7 @@
                     </a>
                     <ul class="nav nav-treeview"> 
                     <li class="nav-item">
-                        <a href="#" class="nav-link">
+                        <a href="/sistemasdeinformacao" class="nav-link">
                             <i class="far fa-circle nav-icon"></i>
                             <p class="text-dark"> Sistemas de informação</p>
                         </a>
@@ -169,6 +169,14 @@
                         </a>
                     </li>
                     </ul>
+                </li> -->
+                <li class="nav-item has-treeview ">
+                    <a class="nav-link ative" href="/apps"><i class="fas fa-running"></i> 
+                        <p class="text-dark"> 
+                            Apps de atividade fisica
+                            <!-- <i class="fas fa-angle-left right nav-icon"></i> -->
+                        </p> 
+                    </a>
                 </li>
             </ul>
         </nav>

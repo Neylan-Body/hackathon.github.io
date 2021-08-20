@@ -22,8 +22,20 @@ Route::get('/rodadeconversa', function () {
     return view('roda_conversa');
 });
 
+Route::get('/sistemasdeinformacao', function () {
+    return view('si');
+});
+
+Route::get('/artigo/eydkgkfl124243322', function () {
+    return view('exemplo_artigo');
+});
+
 Route::get('/live/124hdfds3453', function () {
     return view('live_exemplo');
+});
+
+Route::get('/apps', function () {
+    return view('app_atv_fisica');
 });
 
 Route::get('/curso/sistemasdeinformacao', function () {
